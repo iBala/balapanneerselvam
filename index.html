@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bala Panneerselvam</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <style>
+      body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+          display: flex;
+          font-size: 14px; /* Base font size */
+      }
+      #menu {
+          width: 200px;
+          height: 100vh;
+          background-color: #f0f0f0;
+          padding: 20px;
+          font-size: 14px; /* Slightly smaller than base */
+      }
+      #content {
+          flex-grow: 1;
+          padding: 20px;
+      }
+      #menu ul {
+          list-style-type: none;
+          padding: 0;
+      }
+      #menu li {
+          margin-bottom: 10px;
+      }
+      #menu a {
+          text-decoration: none;
+          color: #333;
+      }
+      h1 {
+          font-size: 24px; /* 32px if base is 16px */
+      }
+      h2 {
+          font-size: 20px; /* 24px if base is 16px */
+      }
+      h3 {
+          font-size: 18px; /* About 18.7px if base is 16px */
+      }
+      h4 {
+          font-size: 16px; /* 16px if base is 16px */
+      }
+      h5 {
+          font-size: 14px; /* About 13.3px if base is 16px */
+      }
+      h6 {
+          font-size: 12px; /* About 10.7px if base is 16px */
+      }
+      p {
+          font-size: 14px; /* Same as base font size */
+      }
+      .small-text {
+          font-size: 12px; /* For any text you want smaller */
+      }
+      .large-text {
+          font-size: 16px; /* For any text you want larger */
+      }
+  </style>
+</head>
+<body>
+    <div id="menu">
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </div>
+    <div id="content"></div>
+
+    <script>
+        const converter = new showdown.Converter();
+        const contentDiv = document.getElementById('content');
+
+        async function loadContent(page) {
+            try {
+                const response = await fetch(`${page}.md`);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const text = await response.text();
+                contentDiv.innerHTML = converter.makeHtml(text);
+            } catch (error) {
+                console.error("Could not load page:", error);
+                contentDiv.innerHTML = "<h1>Error</h1><p>Could not load the requested page.</p>";
+            }
+        }
+
+        function handleNavigation() {
+            const hash = window.location.hash.slice(1) || 'home';
+            loadContent(hash);
+        }
+
+        window.addEventListener('hashchange', handleNavigation);
+        
+        // Call handleNavigation immediately to load the initial page
+        handleNavigation();
+    </script>
+</body>
+</html>
