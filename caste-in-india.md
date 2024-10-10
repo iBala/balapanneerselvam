@@ -38,23 +38,28 @@ Why does it work?
 ## The abuses created by the caste system
 ### Restricting women
 Here, we will see some of the abuses created by the caste system in the society and how it is due to the marriage prohibition. 
+
 [Sati](https://en.wikipedia.org/wiki/Sati_(practice)): A woman jumping into the funeral pyre of her husband. A community enforcing endogenous marriage will (over a period of time) settle around equal men & women. If a women loses her husband, and does not get great prospect in the community, a good way to avoid her moving to an outside community is burning her at the funeral pyre. 
-vidhva dharma: The Sati system is clean but hard to practice. So, the next best alternative to avoid the widow persuing exogenous relations is by making her not appealing for anyone. Consider shaving her head, removing any jewellery, covering her head, wearing plain clothese, no flowers & so son. 
+
+Vidhva Dharma: When Sati became difficult to practice, an alternative to prevent widows from pursuing exogamous relations was to make them unappealing. This involved shaving their heads, removing jewelry, covering their heads, wearing plain clothes, and prohibiting ornaments like flowers.
+
 Child marriage: A woman's attraction to other men comes in after she becomes active. If she can be tied to someone within the same community before she reaches sexual maturity, you can again control who she marries. So get her married when she's 6.
 
 What about men?
 Something I want to read more but the general sense is that men (who are the ones setting up these rules), do not want to apply the same restrictions for them. They went about solving this problem for them by remarrying younger women.
 
-### Creating social hierarchy
-Imagine that one class closes it's door and ensures caste purity. The neighbouring class loses access to the first one. And to ensure not to dilute itself, it closes its doors on others. This perculates to multiple levels and inevitably creates a social hierarchy. 
+### Creating Social Hierarchy
+When one class closes its doors to ensure caste purity, neighboring classes lose access to it. To avoid dilution, they close their doors to others. This percolates to multiple levels, inevitably creating a social hierarchy.
 
 ### Codifying social hierarchy
 Once such a system is in place, you will start getting justifications on why the elite castes are elite and vice versa in the form of morally abusive text like [Manusmriti](https://en.wikipedia.org/wiki/Manusmriti).
-Few tidbits from the same: 
+
+Few disturbing tidbits from Manusmriti: 
 - If a lower caste member accidentally hears vedas being read by a Brahmin, it recommends poring hot wax as a punishment into the lower caste member's ears.
 - If a Brahmin is walking towards you, the low caste member should move out of the road and stand at the side so his shadow does not fall on the Brahmin.
 
 Untouchability: I remember this being practiced when I was a kid. My aunt used to tell me that we can't touch certain being because they are of a lower caste. This is as recent as late 1990s. I'm sure a form of this stil continues in several parts of India.
 
 ## Closing thoughts
-I have a lot more in common with my neighbours, in terms of my custom, religion, language, eating habits, skin color and more. We created an arbitrary system of an artificial hierarchy that has led to centuries of injustice in the country. 
+I have a lot more in common with my neighbours, in terms of my custom, religion, language, eating habits, skin color and more. We created an arbitrary system of an artificial hierarchy that has led to centuries of injustice in the country. Recognizing and understanding this system is the first step towards dismantling it and creating a more equitable society. 
+It's not just a measure of favouring others, it's the way to collaborate and grow as a country.
