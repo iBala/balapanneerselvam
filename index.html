@@ -7,19 +7,23 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
     <style>
       body {
-          font-family: Arial, sans-serif;
+          font-family: Inter, sans-serif;
           margin: 0;
           padding: 0;
           display: flex;
           font-size: 14px; /* Base font size */
       }
       #menu {
-          width: 200px;
-          height: 100vh;
-          background-color: #f0f0f0;
-          padding: 20px;
-          font-size: 14px; /* Slightly smaller than base */
-      }
+            width: 200px;
+            min-width: 200px; /* Ensures the menu doesn't shrink below 200px */
+            height: 100vh;
+            background-color: #f0f0f0;
+            padding: 20px;
+            font-size: 14px; /* Slightly smaller than base */
+            box-sizing: border-box; /* Includes padding in the width calculation */
+            flex-shrink: 0; /* Prevents the menu from shrinking */
+            overflow-y: auto; /* Adds vertical scrolling if content exceeds height */
+        }
       #content {
           flex-grow: 1;
           padding: 20px;
