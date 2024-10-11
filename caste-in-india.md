@@ -3,7 +3,7 @@
 I've been interested in learning about caste in India for about 2 years now. While the class system is universal in every society, caste system seemed to be unique to India. But India is not a common entity, we have different cultures, languages, and behaviors. I've been trying to read more about it. I think I've come to a place that my existing notions are being broken that it's time to put this on paper. 
 
 The big trigger for writing this came from me watching the Tamil movie [Kottukali(The adamant girl)](https://www.imdb.com/title/tt27080561/).
-Most of the content influnce came from this amazing book by Dr. B. R. Ambedkar [Caste In India Their Mechanism, Genesis and Development](https://www.amazon.in/dp/8193600894)
+Most of the content influence came from this amazing book by Dr. B. R. Ambedkar [Caste In India Their Mechanism, Genesis and Development](https://www.amazon.in/dp/8193600894)
 
 ## My personal dealings with caste
 Here are a few (of many) personal experiences with caste.
@@ -32,7 +32,7 @@ I've been lucky enough to have not experienced similar situations. But I'm sure 
 The best explanation of this is found in Dr Ambedkar's book above which states that caste is a community that prohibits marriages outside their social community. This forms the genesis of caste. 
 
 Why does it work?
-- Prohibit marriage -> you reduce interactions -> Further implement additional constraints like Servitude, untouchability, restricted acces etc. 
+- Prohibit marriage -> you reduce interactions -> Further implement additional constraints like Servitude, untouchability, restricted access etc. 
 - Also, no one can get access to the caste group except by birth. 
 
 ## The abuses created by the caste system
