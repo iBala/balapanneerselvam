@@ -1,5 +1,5 @@
 # Digital home of Bala Panneerselvam
-1x founder, Digital Product Person, Husband and dog parent. [LinkedIn](https://www.linkedin.com/in/balakumaranpanneerselvam/) [Twitter](https://x.com/iBala)
+1x founder, Husband and dog parent. I love building products. [LinkedIn](https://www.linkedin.com/in/balakumaranpanneerselvam/) [Twitter](https://x.com/iBala)
 
 
 ## What can you find here?
