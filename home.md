@@ -7,5 +7,7 @@ I care about history, technology, and philosophy. Unfortunately, there's no deif
 
 You might want to start with
 [Something I've written about](https://ibala.github.io/balapanneerselvam/#notes)
+
 [Books I've enjoyed](https://ibala.github.io/balapanneerselvam/#books)
+
 [Things I think about](https://ibala.github.io/balapanneerselvam/#what_i_don't_know)
