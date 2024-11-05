@@ -3,3 +3,4 @@ Some of them are so surprising that I had to rethink my entire childhood. When t
 (Not in any particular order)
 
 1. [Caste in India](https://ibala.github.io/balapanneerselvam/#caste-in-india) - A personal observation on caste in India.
+2. [Why Punjabis have (or had) a major representation in the Indian army](https://ibala.github.io/balapanneerselvam/#indian-army-punjab) - How Punjabis rose as a warrior clan in India.

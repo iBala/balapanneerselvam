@@ -1,3 +1,4 @@
 Here are some of the books I've read and liked. Not in any particular order.
 
 [Caste In India Their Mechanism, Genesis and Development](https://www.amazon.in/dp/8193600894) - By Dr. B.R.Ambedkar. 
+[Parkistan or the Partition of India](https://www.amazon.in/Untouchables-Constitution-understanding-Autobiography-Annihilation/dp/935220526X?crid=2W6WCQKZ8BKG4&dib=eyJ2IjoiMSJ9.MXKebExrHDJeGOWLJiKRU3XgfFYYIQNjVv-EcmQ3CIC8JIQlmVJQAbvvanRJ_HTY1l3kCc0R82NRTJ5D37tYuYVOBFArf8nWFw0Q-OslDBpBdih3SjVyuJruHnfmkRZm8cMbL54zIwzeeQsEl64qRD-ss4E71FZhpvu6Ey0Nm9TIjsWn1DbqmkA7MwmxMMtLDB7_pdU83y3Z56Lzp3x-8fjGvXD6I9kKyIXld7rOMEU.mxYtz2ZW9W2Fqpg3FjHYDZNvpZfGoEXwxkwZf-HcL5U&dib_tag=se&keywords=pakistan+or+the+partition+of+india&qid=1730702340&sprefix=pakistan+or+the+p,aps,256&sr=8-3) - By Dr. B.R.Ambedkar. 
