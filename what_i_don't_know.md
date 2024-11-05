@@ -24,6 +24,9 @@ Read about this account but I don't remember the history. Would love to read mor
 ### Life of a common man in ancient India
 We glorify kings and rulers. I want to read about how life was for a common man. 
 
+### Theory that movement from Hunter-Gatherer to Settle-down-agriculture is the result of all the class and economic divides.
+I came across this in [Sapiens](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085?crid=1O3SXRIXGOGCV&dib=eyJ2IjoiMSJ9.0B00y93QZKlEi8Jm-KlML_M8mJoZEmtWqb1IkbEhPkHLYH-iqNMU4e01qc5dCvj9gjB9Gu2Wky2MHB3qKJ6p3lKhQZqA1g_8_Py6kumFy6JHExIX8LernIKVCCkO_o5L0W-N3xJYCE243UY-hE4ystJs65jNWemI4K1f6EuEweYMuxdTPA5VZvxAbmAr1DBJLoWJDLbtxo76UwWKQT94LF_BPuLeGS9jV6cy7v2EtxI.Wg-quFS-12oU6V1dbazlzL3LURC5vlKglsJjeLsMq3I&dib_tag=se&keywords=sapiens&qid=1730792798&sprefix=sapien,aps,369&sr=8-3). Too simplistic a way of summarizing 10000 years of history. 
+
 ## Technology
 ### How does a Pressure cooker work?
 Seems like a great piece of innovation.
