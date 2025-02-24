@@ -11,3 +11,5 @@ You might want to start with
 - [Books I've enjoyed](https://ibala.github.io/balapanneerselvam/#books)
 
 - [Things I think about](https://ibala.github.io/balapanneerselvam/#what_i_don't_know)
+
+- [A Life Well Lived](https://ibala.github.io/balapanneerselvam/#a-life-well-lived.md)
