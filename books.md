@@ -1,6 +1,6 @@
 Here are some of the books I've read and liked. Not in any particular order.
 
-### [Caste In India Their Mechanism, Genesis and Development](https://www.amazon.in/dp/8193600894) - By Dr. B.R.Ambedkar.\
+#### [Caste In India Their Mechanism, Genesis and Development](https://www.amazon.in/dp/8193600894) - By Dr. B.R.Ambedkar.
 I'm fascinated with caste in India. This is a wonderful foundation. 
 
 ### [Parkistan or the Partition of India](https://www.amazon.in/Untouchables-Constitution-understanding-Autobiography-Annihilation/dp/935220526X) - By Dr. B.R.Ambedkar. 
@@ -17,3 +17,6 @@ My go to book for work. No bullshit guide to starting a company.
 
 ### [Anarchy](https://www.amazon.in/Anarchy-Company-Corporate-Violence-Pillage/dp/1526656523/ref=sr_1_1?sr=8-1) - Willian Dalrymple
 I've been reading India's history. This is a good guide to understand the how EIC took over India.
+
+### [Shoe Dog](https://www.amazon.in/Shoe-Dog-Memoir-Creator-NIKE/dp/1471146723/ref=sr_1_1?sr=8-1) - Phil Knight
+Best biography ever!
