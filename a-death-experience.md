@@ -1,7 +1,7 @@
 -----------
 I saw how rituals around death are set up to make the grieving easier.
-Created on: 5th October
 -----------
+Created on: 5th October
 
 Very recently, I had someone very close to me pass away. This is the death that's personal to me so far in my life. During the rituals around these events, I've noticed certain under currents. The entire set of rituals were built around making the family comfortable. We'll talk about that here. 
 
@@ -64,3 +64,19 @@ The idea here is that the uncle side comforts the woman of the house that there 
 
 They also gave her a few freshly bought clothes. 
 
+### The food
+During this entire time, everyone who reaches the place is offered food, water and tea. Again, arranged by the relatives. They were issued either in the temporary structures or nearby homes (which was so nice to see). 
+But the immediate family was not allowed to the leave the house. The food is brought to them. So they do not have to worry about going out. 
+
+### The next few days
+A few things happened over the next few days. 
+1. The people close to the family stayed for 3 days. This is to make sure that the grieving family does not feel alone. They have their immediate relatives around them. They are literally not left alone for a second.
+2. Even after 3 days, the same relatives came as often as daily to simply spend time with the family. 
+3. More and more people came. People who couldn't come on the first day kept coming for the next 15 days. And they all asked the question "What happened?". By the 4th day, the family was largely out of the immediate shocks and burdens. The grief was still there but the pain had subsided.
+4. The family was not allowed to the leave the house for x number of days. The x depends on the time of death and how auspicious it is. And until then, the family is not allowed to cook at home and they are brought food by the relatives. And on the last day, the family is allowed to go out to a relatives house to end the "House arrest" who feed them and cloth them and bring them back. After this, the family can start cooking.
+5. There were some other gifting and reverse gifting and a lot of small stuff to make sure every one in the family is content.
+
+### The money
+All these arrangements come at a cost. The actual family was the one who paid (more like reimbursed) at the end. Which makes sense. 
+
+Earlier, I always thought why the immediate family is not left alone to grieve. I would always get stuck on what to say to someone who had a loss. And my instinct was not to disturb them. These experiences have completely changed my mind. I do not know if the experiences are similar in other cultures but this one impressed on me what having a good community means to someone who needs help.
