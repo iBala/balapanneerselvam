@@ -1,4 +1,5 @@
 -----------
+I saw how rituals around death are set up to make the grieving easier.
 Created on: 5th October
 -----------
 
